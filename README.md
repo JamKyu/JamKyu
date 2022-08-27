@@ -1,4 +1,4 @@
-Hello there 👋 I'm James Kyu
+Hello there
 ==========================
 
 Frontend Developer | React | JavaScript
@@ -27,8 +27,6 @@ Frontend Developer | React | JavaScript
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JamKyu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/james-kyu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
