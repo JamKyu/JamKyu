@@ -1,4 +1,4 @@
-Hello there
+Hello there 👋 I'm James Kyu
 ==========================
 
 Frontend Developer | React | JavaScript
