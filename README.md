@@ -6,7 +6,6 @@ Frontend Developer | React | JavaScript
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [jamkyu@proton.me](mailto:jamkyu@proton.me)
-* 🧠  I'm learning Next.js
 * ⚡  My cat's name is Kira
 
 ### Skills
