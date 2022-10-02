@@ -4,7 +4,7 @@ Hello there 👋 I'm James Kyu
 Frontend Developer | React | JavaScript
 ---------------------------------------
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in Nanuet, New York, USA
 * ⚡  My cat's name is Kira
 
 ### Skills
