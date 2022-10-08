@@ -1,4 +1,4 @@
-Hello there 👋 I'm James Kyu
+[Hello There](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋 I'm James Kyu
 ==========================
 
 Frontend Developer | React | JavaScript
