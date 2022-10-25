@@ -5,6 +5,7 @@ Frontend Developer | React | JavaScript
 ---------------------------------------
 
 * 🌍  I'm based in New York, USA
+* 🌱  I’m currently learning Next.js
 * ⚡  My cat's name is Kira
 
 ### Skills
