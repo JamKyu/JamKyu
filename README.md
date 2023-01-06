@@ -4,7 +4,7 @@
 Frontend Developer | React | JavaScript
 ---------------------------------------
 
-* 🌍  I'm based in New York, USA
+* 🌍  I'm based in New York
 * ⚡  My cat's name is Kira
 
 ### Skills
